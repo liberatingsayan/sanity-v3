@@ -24,3 +24,6 @@
 
 # Typescript
 *.tsbuildinfo
+
+# Custom
+/dev-portfolio
